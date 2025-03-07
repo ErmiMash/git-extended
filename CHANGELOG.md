@@ -1,3 +1,7 @@
+# [](https://github.com/ErmiMash/git-extended/compare/v1.0.0...v) (2025-03-07)
+
+
+
 #  (2025-03-07)
 
 
